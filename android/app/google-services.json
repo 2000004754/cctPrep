@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254282177282",
+    "firebase_url": "https://practicecct-default-rtdb.firebaseio.com",
+    "project_id": "practicecct",
+    "storage_bucket": "practicecct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254282177282:android:ae50fde97e888085be801b",
+        "android_client_info": {
+          "package_name": "com.example.practice_cct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254282177282-bngvqp6cgq5g4kil519tdcku9k81at58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wsqa1e9ACNLD9PVEungS3S0_jFPeKVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254282177282-bngvqp6cgq5g4kil519tdcku9k81at58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
